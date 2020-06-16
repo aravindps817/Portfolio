@@ -1,17 +1,4 @@
-# Port Folio ⚡️ [![GitHub](https://img.shields.io/github/license/saadpasta/developer-portfolio?color=blue)]
-
-## A clean, beautiful and responsive portfolio template for Developers!
-
-
-## Sections 
-✔️ Summary and About me\
-✔️ Skills\
-✔️ Work Experience\
-✔️ Open Source Projects Connected with Github\
-✔️ Contact me\
-✔️ Twitter Timeline\
-✔️ Github Profile
-
+# Port Folio ⚡️ 
 
 ```
 node@v10.16.0 or higher
